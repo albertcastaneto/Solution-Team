@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="560" viewBox="0 0 720 560" role="img" aria-label="ABOUT IMAGE placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8ecf4"/>
+      <stop offset="1" stop-color="#d4dbea"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#c3cce0" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="720" height="560" fill="url(#g)"/>
+  <rect width="720" height="560" fill="url(#grid)"/>
+  <g fill="#9aa7c4" opacity="0.85">
+    <circle cx="360.0" cy="250.0" r="26"/>
+    <path d="M290.0 274.0 l34 -40 l30 34 l22 -22 l40 48 z"/>
+  </g>
+  <text x="50%" y="324.0" font-family="Montserrat, Arial, sans-serif" font-size="26" font-weight="800" fill="#46557a" text-anchor="middle" letter-spacing="1">ABOUT IMAGE</text>
+  <text x="50%" y="350.0" font-family="Arial, sans-serif" font-size="16" fill="#6b7896" text-anchor="middle">720 &#215; 560 &#8226; replace me</text>
+</svg>

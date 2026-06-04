@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="640" viewBox="0 0 1600 640" role="img" aria-label="Hero background image placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dfe5f1"/><stop offset="1" stop-color="#c7d0e4"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#b9c3da" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="640" fill="url(#g)"/>
+  <rect width="1600" height="640" fill="url(#grid)"/>
+  <g fill="#9aa7c4" opacity="0.8">
+    <circle cx="1120" cy="270" r="46"/>
+    <path d="M980 410 l120 -150 l110 124 l80 -80 l150 176 z"/>
+  </g>
+  <text x="1120" y="470" font-family="Montserrat, Arial, sans-serif" font-size="34" font-weight="800" fill="#46557a" text-anchor="middle" letter-spacing="1">HERO BACKGROUND IMAGE</text>
+  <text x="1120" y="508" font-family="Arial, sans-serif" font-size="20" fill="#6b7896" text-anchor="middle">1600 &#215; 640 &#8226; replace me (full-bleed background)</text>
+</svg>
